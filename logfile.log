@@ -1,0 +1,15 @@
+2023-08-26 12:39:10,278 INFO  [Log] Application Opened 
+2023-08-26 12:39:12,055 INFO  [Log] Login Completed 
+2023-08-26 12:39:12,252 INFO  [Log] Logout Completed 
+2023-08-26 12:39:12,684 INFO  [Log] Application Closed 
+2023-08-26 15:31:36,612 INFO  [Log] Application Opened 
+2023-08-26 15:31:38,047 INFO  [Log] Login Completed 
+2023-08-26 15:31:38,140 INFO  [Log] Logout Completed 
+2023-08-26 15:31:38,298 INFO  [Log] Application Closed 
+2023-08-26 15:31:41,505 INFO  [Log] Application Opened 
+2023-08-26 15:31:43,577 INFO  [Log] Login Completed 
+2023-08-26 15:31:43,633 INFO  [Log] Entered into Frame 
+2023-08-26 15:31:47,122 INFO  [Log] New Emp Added 
+2023-08-26 15:31:47,130 INFO  [Log] Exit from Frame 
+2023-08-26 15:31:47,333 INFO  [Log] Logout Completed 
+2023-08-26 15:31:47,543 INFO  [Log] Application Closed 
